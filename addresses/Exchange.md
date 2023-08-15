@@ -3,7 +3,7 @@
 - Router: [0x2a8B48a8B8a8a8E4a184280333c418BcdcE72dE9](https://etherscan.io/address/0x2a8B48a8B8a8a8E4a184280333c418BcdcE72dE9#code)
 
 ## Fantom
-- Factory:[0x1120e150dA9def6Fe930f4fEDeD18ef57c0CA7eF](https://ftmscan.com/address/0x1120e150dA9def6Fe930f4fEDeD18ef57c0CA7eF#code)
+- Factory: [0x1120e150dA9def6Fe930f4fEDeD18ef57c0CA7eF](https://ftmscan.com/address/0x1120e150dA9def6Fe930f4fEDeD18ef57c0CA7eF#code)
 - Router: [0x6b3d631B87FE27aF29efeC61d2ab8CE4d621cCBF](https://ftmscan.com/address/0x6b3d631B87FE27aF29efeC61d2ab8CE4d621cCBF#code)
 
 ## Avalanche
